@@ -3,7 +3,7 @@
 
 int main() {
     char input[6]; //untuk menyimpan input user dalam bentuk string seperti format 07:00
-    int jam, menit; // untuk menyimpann ilai  jam dan menit hasil parsing dari input
+    int jam, menit; // untuk menyimpan nilai  jam dan menit hasil parsing dari input
     char pilihan; //untuk menyimpan pilihan user apakah akan menampilkan pengingat ulang atau tidak
 
     //loop sampai input waktu valid
