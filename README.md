@@ -25,6 +25,7 @@
 - Variabel
 - If-else
 - Fungsi
+- Looping while
 - Array
 
 ## Link Video Demo
